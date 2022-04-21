@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Michael Conrad Viray (aka MCV) 
+- 👋 Hi, I'm Michael Conrad San Diego Viray (aka MCV) 
 - 👀 I’m interested in building and contributing to open source projects both large and small 
 - 🌱 I’m currently learning JavaScript, HTML, And CSS along with the MERN stack. 
 - 🧠 I currently work at a Mental Health Startup in Operations!
