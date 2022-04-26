@@ -1,15 +1,17 @@
 ![Header](https://github.com/michaelsandiegoviray/michaelsandiegoviray/blob/main/Michael%20Viray.png)
 
-### Links
-<a href="https://twitter.com/masterflexyike">
-  <img align="left" alt="MCV | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <a href="https://instagram.com/mcsdviray"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://twitch.tv/masterflexyike"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/msviray"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/masterflexyike"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/msviray/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=michaelsandiegoviray.michaelsandiegoviray" alt="visitor badge"/>
+</p>
 
-
+# About Me
+- 👋 I'm Michael (he/him)
+- 🛠️ I'm currently working in Operations at Modern Health
+- 🌉 Born and raised in the SF-Bay Area
+- 🐕 Fun Fact: I have a Shiba named Amaya that was born 2 days before me
 
 
 <br />
@@ -26,7 +28,9 @@
 
 ## Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=michaelsandiegoviray&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=michaelsandiegoviray.michaelsandiegoviray" alt="visitor badge"/>
+</p> 
 
 <!---
 michaelsandiegoviray/michaelsandiegoviray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
