@@ -1,17 +1,20 @@
 ![Header](https://github.com/michaelsandiegoviray/michaelsandiegoviray/blob/main/Michael%20Viray.png)
-
-  <a href="https://instagram.com/mcsdviray"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitch.tv/masterflexyike"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/msviray"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="center">
+    <a href="https://linkedin.com/in/msviray"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/masterflexyike"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://twitch.tv/masterflexyike"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://instagram.com/mcsdviray"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
 </a>
 </p>
+
 
 ## About Me
 - 👋 I'm Michael (he/him)
 - 🛠️ I'm currently working in Operations at Modern Health
 - 🌉 Born and raised in the SF-Bay Area
-- 🐕 Fun Fact: I have a Shiba named Amaya that was born 2 days before me
+- 🐕 Catch me hiking with my Shiba on the weekends
+- 🍹 Bartender Finesser: I can make over 50 drinks by memory
 
 
 <br />
