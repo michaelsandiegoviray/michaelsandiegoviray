@@ -1,4 +1,4 @@
-![Header](https://www.canva.com/design/DAE-8ks50VU/Xe3PzxbPj61DDGvpmpnlRg/view?utm_content=DAE-8ks50VU&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![Header](https://github.com/michaelsandiegoviray/michaelsandiegoviray/blob/main/Michael%20Viray.png)
 
 - 👋 Hi, I'm Michael Conrad San Diego Viray (aka MCV) 
 - 🌱 I’m currently learning JavaScript, HTML, And CSS along with the MERN stack. 
