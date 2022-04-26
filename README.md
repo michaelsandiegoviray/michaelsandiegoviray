@@ -1,10 +1,7 @@
 ![Header](https://github.com/michaelsandiegoviray/michaelsandiegoviray/blob/main/Michael%20Viray.png)
 
-- 👋 Hi, I'm Michael Conrad San Diego Viray (aka MCV) 
-- 🌱 I’m currently learning JavaScript, HTML, And CSS along with the MERN stack. 
-- 🧠 I currently work at a Mental Health Startup in Operations!
+- 👋 Hi, I'm Michael San Diego Viray
 - 🏀 When I'm not pushing code, catch me hooping at the park or with my 🐕 Amaya!
-- 📫 Reach me at my primary email: michaelsandiegoviray@gmail.com and I'll be sure to reply! 
 
 
 
