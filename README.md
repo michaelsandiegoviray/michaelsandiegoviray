@@ -1,6 +1,6 @@
 ![Header](https://github.com/michaelsandiegoviray/michaelsandiegoviray/blob/main/Michael%20Viray.png)
 
-## Reach me 
+## Links
 <a href="https://twitter.com/masterflexyike">
   <img align="left" alt="MCV | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -14,7 +14,7 @@
 
 
 
-- 👋 Hi, I'm Michael San Diego Viray
+
 
 
 
