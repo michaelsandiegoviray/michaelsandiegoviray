@@ -10,7 +10,7 @@
 
 
 ## About Me
-- 👋 I'm Michael (he/him)
+- 👋 I'm Michael San Diego  (he/him)
 - 🛠️ I'm currently working in Ops at Modern Health
 - 🌉 Born and raised in the SF-Bay Area
 - 🐕 Catch me hiking with my Shiba on the weekends
