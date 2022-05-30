@@ -10,8 +10,7 @@
 
 
 ## About Me
-- 👋 I'm Michael San Diego  (he/him)
-- 🛠️ I'm currently working in Ops at Modern Health
+- 👋 I'm Michael San Diego Viray  (he/him)
 - 🌉 Born and raised in the SF-Bay Area
 - 🐕 Catch me hiking with my Shiba on the weekends
 - 🍹 Bartender Finesser: I can make over 50 drinks by memory
